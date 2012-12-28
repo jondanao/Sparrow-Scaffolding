@@ -12,3 +12,4 @@ Box2D
 -----
 
 Box2D C++ library already imported. Sample code in Game.m to illustrate basic usage. It should look like this:
+(https://raw.github.com/jondanao/Sparrow-Scaffolding/master/Box2d/screenshot.png)
